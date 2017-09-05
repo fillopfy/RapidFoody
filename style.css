@@ -122,9 +122,20 @@ header #brand{
 	float:left;
 	width:30%;
 	text-align:center;
-	padding:5px;
+	padding:3px;
 	
 }
 #boxes .box img{
-	width:100px;
+	width:129px;
+}
+
+footer{
+	background-color:black;
+	color:white;
+	padding:20px;
+	text-align:center;
+}
+footer a{
+	color:red;
+	text-decoration:none;
 }
